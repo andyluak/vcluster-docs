@@ -337,6 +337,15 @@ to = "/docs/platform/:version/administer/users-permissions/overview"
   from = "/docs/platform-ui-link/platform/node-claims/:version"
   to = "/docs/platform/:version/administer/node-providers/overview#node-claims"
 
+# Template Security Best Practices
+[[redirects]]
+  from = "/docs/platform-ui-link/platform/template-security-best-practices"
+  to = "/docs/platform/administer/templates/create-templates#security-hardening"
+
+[[redirects]]
+  from = "/docs/platform-ui-link/platform/template-security-best-practices/:version"
+  to = "/docs/platform/:version/administer/templates/create-templates#security-hardening"
+
 ## Misc. vCluster links
 
 # Migrate vCluster configuration / Backup and Restore
